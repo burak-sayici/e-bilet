@@ -8,7 +8,7 @@ namespace EBilet.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing.a", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing test br", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
